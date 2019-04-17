@@ -1,6 +1,10 @@
 # dongjianba
-后端：nodejs + koa2 + Sequelize + mysql
-前端：vue2 + vuex + axios + ElementUi
+
+> 前端：vue2 + vuex + axios + ElementUi
+
+> 后端：nodejs + koa2 + Sequelize + mysql
+
+> 数据库：MySQL
 
 # help
 
