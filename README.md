@@ -4,7 +4,6 @@
 
 > 后端：nodejs + koa2 + Sequelize + mysql
 
-> 数据库：MySQL
 
 # help
 
